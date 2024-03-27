@@ -1,0 +1,556 @@
+@media screen and (max-width: 1400px){
+    .footer__sm,
+    .footer__email{
+        width: 388px;
+    }
+
+    .footer__nav_section{
+        width: 194px;
+    }
+
+    .footer__top__box{
+        max-width: 1164px;
+    }
+       
+    .restaurant__box{
+        width: 1164px;
+    }
+    
+    .restaurant__box__left,
+    .restaurant__box__right{
+        width: 582px;
+    }
+
+    .restaurant__box__right img{
+        width: 558px;
+        height: 334px;
+    }
+    
+    .restaurant__box__right{
+        margin-top: 100px;
+    }
+
+    .restaurant{
+        padding: 81px 0 50px 0;
+    }
+    
+    .foodie__left{
+        width: 582px;
+    }
+
+    .foodie__right__box__top__left__card,
+    .foodie__right__box__bottom__right__card{
+        width: 364px;
+        height: 246px;
+    }
+
+    .foodie__right__box__top__right__card__absolute,
+    .foodie__right__box__bottom__left__card__absolut{
+        left: 20px;
+        top: 80px;
+    }
+
+    .foodie__right__box__top__right__card,
+    .foodie__right__box__bottom__left__card{
+        width: 170px;
+        height: 246px;
+    }
+
+    .foodie__box{
+        max-width: 1164px;
+    }
+
+    .foodie__right{
+        width: 558px;
+    }
+
+    .customer__grid__card{
+        width: 364px;
+    }
+    .customer__grid{
+        grid-template-columns: repeat(auto-fill,minmax(364px,1fr));
+        max-width: 1092px;
+    }
+
+    .popular_itmes{
+        max-width: 1146px;
+    }
+
+    .popular_itmes__grid{
+        max-width: 1146px;
+        grid-template-columns: repeat(auto-fill,minmax(558px,1fr));
+    }
+
+    .popular_itmes__grid__card{
+        width: 558px;
+        height: 268px;
+    }
+    
+    .process__left{
+        width: 558px;
+        height: 571px;
+    }
+
+    .process{
+        gap: 25px;
+    }
+    
+    .process__left img{
+        left: 0;
+        width: 100%;
+        height: 100%;
+    }
+
+    .process__right{
+        width: 582px;
+    }
+
+    .traditional__box__btns{
+        max-width: 615px;
+    }
+
+    .traditional__box__grid__card{
+        width: 364px;
+    }
+
+    .traditional__box__grid{
+        grid-template-columns: repeat(auto-fill,minmax(364px,1fr));
+        max-width: 1164px;
+    }
+
+    .categories__imgs{
+        gap: 12px;
+    }
+    
+    .categories__img_one{
+        width: 461px;
+    }
+    
+    .categories__img_two{
+        width: 655px;
+    }
+
+    .categories__card{
+        width: 268px;
+        padding: 20px;
+        gap: 12px;
+    }
+
+    .categories__cards{
+        max-width: 1145px;
+        gap: 12px;
+    }
+
+    .categories__card__tittle h3{
+        font-size: 90%;
+    }
+
+    .categories_box{
+        max-width: 1140px;
+    }
+
+    .header__description{
+        max-width: 1164px;
+    }
+
+    .header__description__card{
+        width: 560px;
+    }
+
+    .header__top_box{
+        /* padding: 0; */
+        max-width: 1140px;  
+    }
+
+    .header__menu__left{
+        gap: 25px;
+        width: 537px;
+    }
+
+    .header__menu__right__inp-icons{
+        gap: 5px;
+    }
+
+    .header__menu__right__btns{
+        gap: 5px;
+    }
+
+    .header__nav{
+        gap: 20px;
+    }
+
+    .header__menu__box{
+        max-width: 1150px;
+    }
+    
+}
+
+@media screen and (max-width: 1200px){
+    .footer__sm,
+    .footer__email{
+        width: 328px;
+    }
+    .footer__nav_section{
+        width: 164px;
+    }
+    .footer__top__box{
+        max-width: 984px;
+    }
+    .footer__sm p{
+        width: 264px;
+    }
+    .footer__email__inp{
+        width: 172px;
+    }
+    .footer__email__btn{
+        width: 112px;
+    }
+    .footer__email__cards img{
+        width: 48px;
+        height: 32px;
+    }
+
+    .restaurant__box{
+        width: 484px;
+    } 
+    .restaurant__box__left,
+    .restaurant__box__right{
+        width: 492px;
+    }
+    .restaurant__box__right img{
+        width: 468px;
+        height: 280px;
+    }
+    .restaurant__box__right{
+        margin-top: 190px;
+    }
+    .restaurant{
+        padding: 81px 0 0px 0;
+    }
+    
+    .foodie__left{
+        width: 492px;
+    }
+    .accordion_foddie_item{
+        width: 466px;
+    }
+    .foodie__right__box__top__left__card,
+    .foodie__right__box__bottom__right__card{
+        width: 304px;
+        height: 205px;
+    }
+    .foodie__right__box__top__right__card,
+    .foodie__right__box__bottom__left__card{
+        width: 140px;
+        height: 200px;
+    }
+    .foodie__box{
+        max-width: 984px;
+    }
+    .foodie__right{
+        width: 492px;
+    }
+    
+    .customer__grid__card{
+        width: 328px;
+    }
+    .customer__grid{
+        grid-template-columns: repeat(auto-fill,minmax(328px,1fr));
+        max-width: 984px;
+    }
+
+    .popular_itmes{
+        max-width: 966px;
+    }
+    .popular_itmes__grid{
+        max-width: 966px;
+        grid-template-columns: repeat(auto-fill,minmax(468px,1fr));
+    }
+    .popular_itmes__grid__card{
+        width: 468px;
+        height: 268.5px;
+    }
+
+    .process__left{
+        width: 468px;
+        height: 479px;
+    }
+    .process{
+        gap: 25px;
+    }
+    .process__right__card{
+        width: 468px;
+    }
+    .process__right{
+        width: 492px;
+    }
+
+    .traditional__box__btns{
+        max-width: 615px;
+    }
+    .traditional__box__grid__card{
+        width: 304px;
+    }
+    .traditional__box__grid{
+        grid-template-columns: repeat(auto-fill,minmax(304px,1fr));
+        max-width: 952px;
+        gap:20px ;
+    }
+    .traditional__box__top h2{
+        max-width: 492px;
+    }
+    .traditional__box__grid__card__top{
+        width: 100%;
+        height: 176px;
+    }
+
+    .categories__img_one{
+        width: 386px;
+    }
+    .categories__img_two{
+        width: 550px;
+    }
+    .categories__card{
+        width: 222px;
+    }
+    .categories__cards{
+        max-width: 924px;
+        gap: 12px;
+    }
+    .categories__card__tittle h3,
+    .categories__card__tittle h4{
+        font-size: 70%;
+    }
+    .categories_box{
+        max-width: 924px;
+    }
+
+    .header__description{
+        max-width: 984px;
+    }
+    .header__description__card{
+        width: 468px;
+    }
+    .header__menu__right__inp{
+        display: none;
+    }
+    .header__top_box{
+        max-width: 960px;  
+    }
+    .header__menu__box{
+        max-width: 960px;
+    }
+}
+
+@media screen and (max-width: 992px){
+    .footer__email{
+        width: 372px;
+    }
+    .footer__nav_section{
+        width: 186px;
+    }
+    .footer__top__box{
+        max-width: 744px;
+        flex-direction: column;
+        gap: 30px;
+    }
+    .footer__top{
+        padding: 70px 0;
+    }
+    .footer__sm p,
+    .footer__sm{
+        width: 100%;
+    }
+    footer h2{
+        font-size: 100%;
+    }
+    .footer__email__inp{
+        width: 190px;
+    }
+    .footer__email__btn{
+        width: 138px;
+    }
+    .footer__email__cards img{
+        width: 56px;
+        height: 38px;
+    }
+
+    .restaurant__box,
+    .restaurant__box__left{
+        width: 744px;
+    }
+    .restaurant__box__right{
+        display: none;
+    }
+    .restaurant{
+        padding: 80px 0 
+    }
+
+    .foodie__box,
+    .foodie__left{
+        width: 744px;
+    }
+    .accordion_foddie_item{
+        width: 100%;
+    }
+    .foodie__right{
+        display: none;
+    }
+    .foodie{
+        padding: 70px 0;
+    }
+
+    .customer__grid__card{
+        width: 328px;
+    }
+    .customer__grid{
+        grid-template-columns: repeat(auto-fill,minmax(328px,1fr));
+        max-width: 656px;
+    }.customer{
+        padding:70px 0;
+    }
+
+    .popular_itmes{
+        max-width: 744px;
+        padding: 70px 0 ;
+    }
+    .popular_itmes__grid{
+        max-width: 744px;
+        grid-template-columns: repeat(auto-fill,minmax(744px,1fr));
+    }
+    .popular_itmes__grid__card{
+        width: 720px;
+        height: 234px;
+        margin-left: auto;
+        margin-right: auto;
+    }
+  
+    .process__left{
+        display: none;
+    }
+    .process__right__card{
+        width: 540px;
+    }
+    .process__right{
+        width: 744px;
+    }
+    .process{
+        padding: 70px 0;
+    }
+
+    .traditional__box__btns{
+        max-width: 720px;
+    }
+    .traditional__box__grid__card{
+        width: 348px;
+    }
+    .traditional__box__grid{
+        grid-template-columns: repeat(auto-fill,minmax(348px,1fr));
+        max-width: 716px;
+        gap:20px ;
+    }
+    .traditional__box__top h2{
+        max-width: 720px;
+    }
+    .traditional__box__grid__card__top{
+        width: 100%;
+        height: 202px;
+    }
+    .traditional{
+        padding: 70px 0;
+    }
+
+    .categories__img_one{
+        width: 286px;
+    }
+    .categories__img_two{
+        width: 410px;
+    }
+    .categories_box{
+        max-width: 924px;
+        display: none;
+    }
+
+    .header__description{
+        max-width: 720px;
+        padding-top: 30px;
+        padding-bottom: 80px;
+    }
+    .header__description__card{
+        width: 720px;
+    }
+    .header__description_conatiner{
+        height: auto;
+    }
+    .header__top{
+        display: none;
+    }
+    .header__menu__box{
+        max-width: 960px;
+    }
+    .header__menu{
+        display: none;
+    }
+    .header__menu__respons{
+        display: flex;
+    }
+
+}
+
+@media screen and (max-width: 765px){
+    .footer__top__box__right{
+        flex-direction: column;
+    }
+    .footer__email,
+    .footer__sm,
+    .footer__nav_section{
+        width: 510px;
+    }
+    .footer__top__box{
+        max-width: 510px;
+        flex-direction: column;
+        gap: 0px;
+    }
+    footer h2{
+        margin-top: 30px;
+    }
+    .footer__top{
+        padding: 60px 0;
+    }
+
+    .restaurant__box,
+    .restaurant__box__left{
+        width: 514px;
+    }
+    .restaurant{
+        padding: 60px 0 ;
+        font-size: 18px;
+    }
+    .restaurant__box__left h2{
+        font-size: 28px;
+    }
+
+    .foodie__box,
+    .foodie__left{
+        width: 514px;
+    }
+    .foodie{
+        padding: 60px 0;
+    }
+    .foodie__left__top h2{
+        font-size: 140%;
+    }
+    .accordion_foddie{
+        margin-top: 20px;
+    }
+
+    .customer__grid__card{
+        width: 510px;
+    }
+    .customer__grid{
+        grid-template-columns: repeat(auto-fill,minmax(510px,1fr));
+        max-width: 510px;
+    }.customer{
+        padding:60px 0;
+    }
+}
